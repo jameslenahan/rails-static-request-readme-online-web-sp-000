@@ -850,3 +850,5 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 13ms (Views: 11.9ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 74.101.16.86 at 2020-02-20 18:56:54 +0000
+Processing by StaticController#about as HTML
